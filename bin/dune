@@ -1,0 +1,4 @@
+(executable
+ (public_name rtree)
+ (name main)
+ (libraries rtree yojson))
